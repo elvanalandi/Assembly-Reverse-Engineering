@@ -1,4 +1,4 @@
-# Assembly Program and Reverse Engineering
+## Assembly Program and Reverse Engineering
 This project was part of my Master's degree at Swinburne University of Technology.
 
 I developed the program (**program.exe**) using 32-bit Intel x86 assembly language and the Irvine32 library. It’s a login application that prompts the user for an ID number and password. Upon successful login, the user’s information is written to a text file and logged in a separate log file.
